@@ -76,7 +76,7 @@ section{
 	position: relative;
 	height: 100vh;
 	width: 100%;
-	background-image: url(../img/project1.jpg);
+	background-image: url(./img/project1.jpg);
 	background-size: cover;
 	background-position: center;
 	display: flex;
@@ -277,6 +277,8 @@ header.sticky{
 	gap: 2.5rem;
 	margin-top: 5rem;
 }
+
+
 .row{
 	position: relative;
 	overflow: hidden;
